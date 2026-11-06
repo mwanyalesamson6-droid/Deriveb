@@ -1,0 +1,6 @@
+{
+  "name": "Deriv AI Trading Bot",
+  "description": "Autonomous Deriv algorithmic trading bot featuring live multi-index market scanner, Over/Under & Even/Odd auto-switching, multi-indicator signal confirmation, and intelligent capital management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
